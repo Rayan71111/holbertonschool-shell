@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l /ect /bin
+ls /bin
